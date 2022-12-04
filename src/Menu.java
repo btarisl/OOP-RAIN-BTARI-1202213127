@@ -6,7 +6,7 @@ public class Menu {
     public void setname(String name){
         this.name = name;
     }
-    public void setcategory(String kategori){
+    public void setkategori(String kategori){
         this.kategori = kategori;
     }
     public void setprice(String harga){
